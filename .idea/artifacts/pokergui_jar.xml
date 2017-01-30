@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pokergui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pokergui_jar</output-path>
+    <root id="archive" name="pokergui.jar">
+      <element id="module-output" name="pokergui" />
+    </root>
+  </artifact>
+</component>
